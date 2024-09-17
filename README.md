@@ -46,7 +46,7 @@ POST /api/reviews/<br>
 /reply - Reply to a specific review by ID.
 
 Note  
-currently it doesnt make use of database to store the replied data but shoes the replies to the console of sever terminal can be stored or processed later easily
+currently it doesnt make use of database to store the replied data but shows the replies to the console of sever terminal can be stored or processed later easily
 
 #Some snapshots
 
