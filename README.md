@@ -11,32 +11,39 @@ This project is a Google Review Management System that allows users to view, rep
 
 ## Installation 
 1.Clone the repository
-git clone https://github.com/Anugrah070/Google-Review-Portal.git
-cd Portal
+git clone https://github.com/Anugrah070/Google-Review-Portal.git<br>
+cd Portal<br>
 
-2.Install dependencies
-FOR CLIENT
-cd client
-npm install
+2.Install dependencies<br>
+FOR CLIENT<br>
+cd client<br>
+npm install<br>
 
-FOR SERVER
-cd ../server
-npm install
+FOR SERVER<br>
+cd ../server<br>
+npm install<br>
 
-3.Running the client
-navigate to client directory
-cd /client
+3.Running the client<br>
+navigate to client directory<br>
+cd /client<br>
 
-then start the react client by
-npm run dev
+then start the react client by<br>
+npm run dev<br>
 
 
-4.Running the Server
-Navigate to the server directory:
-cd server
+4.Running the Server<br>
+Navigate to the server directory:<br>
+cd server<br>
 
-Start the Node.js server:
-npm start
+Start the Node.js server:<br>
+npm start<br>
+
+5.API Endpoints<br>
+The server has the following API endpoints:
+
+GET /api/reviews - Fetch all reviews from mock data (as buisness api was unavailable)<br>
+POST /api/reviews/<br>
+/reply - Reply to a specific review by ID.
 
 
 
