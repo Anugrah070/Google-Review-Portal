@@ -48,7 +48,11 @@ POST /api/reviews/<br>
 Note  
 currently it doesnt make use of database to store the replied data but shoes the replies to the console of sever terminal can be stored or processed later easily
 
+#Some snapshots
 
 
 
+![Screenshot (35)](https://github.com/user-attachments/assets/82ec3d88-3930-4b67-b181-b89c172b080c)
+![Screenshot (36)](https://github.com/user-attachments/assets/9e145b86-6f61-4d8a-b9a0-3e27fac5edc6)
+![Screenshot (37)](https://github.com/user-attachments/assets/73b458b7-4a1c-4119-82a7-fea69c07c7b6)
 
